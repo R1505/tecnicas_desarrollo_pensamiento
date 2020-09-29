@@ -1,0 +1,360 @@
+<fundacion alto="550" ancho="775" scorm="0">
+  <pagina locked="0" id="1">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/IMAGENES TECNICAS.../[_2_]FONDO_1.PNG" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento imagen="galeria/imagenes/IMAGENES TECNICAS.../[_2_]PENS.jpg" alto_px="400" ancho_px="800" alto="97.26" ancho="64.75" rotation="-0.11" posy="161" posx="255" tipo="imagen" src="1"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="16777215" alto_px="99" ancho_px="100" alto="84.5" ancho="767" rotation="0" posy="2" posx="2" tipo="forma" src="4"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="16777215" alto_px="99" ancho_px="100" alto="114.75" ancho="769" rotation="0" posy="49" posx="2" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="132" ancho_px="328" alto="100" ancho="100" rotation="0" posy="11" posx="246" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="28" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">TÉCNICAS DE DESARROLLO</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="36" posx="361" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="OldNewspaperTypes" SIZE="24" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">DEL<FONT FACE="itsadzoke-045"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="132" ancho_px="328" alto="100" ancho="100" rotation="0" posy="60" posx="268" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="48" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">PENSAMIENTO<FONT SIZE="28"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="13421772" alto_px="99" ancho_px="100" alto="50.51" ancho="611" rotation="0" posy="137" posx="83" tipo="forma" src="4"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="16777215" alto_px="99" ancho_px="100" alto="43.44" ancho="604" rotation="0" posy="140" posx="86" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="149" posx="119" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>INICIO</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="1" alto_px="62" ancho_px="67" alto="33.89" ancho="83.59" rotation="0" posy="151" posx="109" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="149" posx="229" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>CONCEPTOS</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="150" posx="389" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>EXPLICACIÓN</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="111" ancho_px="143" alto="100" ancho="100" rotation="0" posy="150" posx="551" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="1" alto_px="62" ancho_px="67" alto="59.68" ancho="98.51" rotation="0" posy="142" posx="110" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="2" alto_px="62" ancho_px="67" alto="61.3" ancho="170.15" rotation="0" posy="142" posx="222" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="1" alto_px="62" ancho_px="67" alto="61.3" ancho="177.62" rotation="0" posy="142" posx="381" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="61.3" ancho="177.62" rotation="0" posy="142" posx="541" tipo="hipervinculo" src="5"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="341.07" ancho="241" rotation="0" posy="201" posx="10" tipo="forma" src="4"/>
+    <elemento imagen="vacio" salto="3" alto_px="62" ancho_px="67" alto="61.3" ancho="170.15" rotation="0" posy="141" posx="382" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="211" posx="25" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="14" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>Rashel Cubides 11B</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="135" ancho_px="224" alto="100" ancho="100" rotation="0" posy="248" posx="20" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="OldNewspaperTypes" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">¿QUÉ ENCONTRARÁS EN ESTE RECURSO?</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="135" ancho_px="224" alto="100" ancho="100" rotation="0" posy="248" posx="20" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="OldNewspaperTypes" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">¿QUÉ ENCONTRARÁS EN ESTE RECURSO?</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="194" ancho_px="228" alto="100" ancho="100" rotation="0" posy="313" posx="22" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="14" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">Este es un espacio de aprendizaje sobre las técnicas de desarrollo del pensamiento, puedes acceder también a una definición de conceptos que te ayudarán a una mejor comprensión del tema y posterior a esto podrás poner a prueba tus conocimientos adquiridos con diversas actividades.</FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="1b"/>
+  <pagina locked="0" id="2">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="381" ancho_px="723" alto="100" ancho="100" rotation="0" posy="143" posx="29" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">PENSAMIENTO: Es el producto de la mente que puede ser construido procesos racionales, de abstracción, o de imaginación.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">DESARROLLO: Es un proceso evolutivo de cambio y crecimiento relacionado con una persona, objeto o situación determinada.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">DESARROLLO DE PENSAMIENTO: Es una capacidad propia del ser humano que se desarrolla naturalmente y poco a poco con el paso del tiempo mientras el humano crece y se desarrolla (maduración).</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">COGNICIÓN:  Hace referencia a la facultad para el procesamiento de información a partir de la percepción y de la experiencia.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">INTELIGENCIA: Es la facultad o capacidad de entendimiento, razonamiento, saber, aprendizaje, creatividad, lógica y de resolución de problemas.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">PERCEPCIÓN: Es el proceso cognitivo que nos permite interpretar nuestro entorno por medio de los estímulos que captamos mediante los órganos sensoriales.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">INTELECTO: Es la facultad mental que permite aprender, entender, razonar, tomar decisiones y construir una idea determinada de la realidad.</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="119.01" ancho_px="450" alto="100" ancho="100" rotation="0" posy="79" posx="155" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="48" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"> CONCEPTOS </FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="734012" alto_px="99" ancho_px="100" alto="2.03" ancho="222" rotation="0" posy="103" posx="528" tipo="forma" src="4"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="734012" alto_px="99" ancho_px="100" alto="2.03" ancho="222" rotation="0" posy="105" posx="24" tipo="forma" src="4"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="44.7" ancho="774" rotation="0" posy="-1" posx="-1" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="59.01" ancho_px="250" alto="100" ancho="100" rotation="0.33" posy="10" posx="38" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>INICIO</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="207" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>CONCEPTOS</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="419" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>EXPLICACIÓN</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="110" ancho_px="103" alto="100" ancho="100" rotation="0" posy="10" posx="632" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="2" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="6" posx="199" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="3" posx="622" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="3" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="4" posx="409" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="1" alto_px="62" ancho_px="67" alto="50" ancho="117.92" rotation="0" posy="4" posx="24" tipo="hipervinculo" src="5"/>
+  </pagina>
+  <pagina locked="0" id="2b"/>
+  <pagina locked="0" id="3">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="44.7" ancho="774" rotation="0" posy="-1" posx="-1" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="97.01" ancho_px="250" alto="100" ancho="100" rotation="0.33" posy="11" posx="39" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>INICIO</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="207" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>CONCEPTOS</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="419" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>EXPLICACIÓN</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="110" ancho_px="103" alto="100" ancho="100" rotation="0" posy="10" posx="632" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="1" alto_px="62" ancho_px="67" alto="50" ancho="117.92" rotation="0" posy="4" posx="24" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="2" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="6" posx="199" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="3" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="4" posx="409" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="3" posx="622" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="128" ancho_px="450" alto="100" ancho="100" rotation="0" posy="79" posx="160" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="48" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">EXPLICACIÓN</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="734012" alto_px="99" ancho_px="100" alto="2.03" ancho="222" rotation="0" posy="103" posx="528" tipo="forma" src="4"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="734012" alto_px="99" ancho_px="100" alto="2.03" ancho="222" rotation="0" posy="105" posx="24" tipo="forma" src="4"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="74.05" ancho="443" rotation="0" posy="149" posx="0" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="383" ancho_px="474" alto="100" ancho="100" rotation="0" posy="156" posx="26" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Impact" SIZE="22" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">¿QUÉ SON LAS TÉCNICAS DE DESARROLLO DEL PENSAMIENTO?<FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Las técnicas de desarrollo de pensamiento son los diferentes métodos y maneras asertivas de orientación hacia los procesos de aprendizaje y formación. Buscan la eficiencia pedagógica y desarrollo exitoso de habilidades, actitudes y conocimientos empleando herramientas educativas adecuadas para dinamizar y hacer del aprendizaje un proceso mas factible.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Son el conjuto de procedimientos, pasos y acciones que son desarrolladas por parte de la comunidad para facilitar el crecimiento personal como profesional, incentivando a los individuos y logrando una innovación pedagógica. Estas técnicas son múltiples y variadas ya que dependen de las herramientas que se empleen para el desarrollo cognitivo, las personas su entorno, el tipo de saber y conocimientos, los objetivos y dimensiones humanas que se tengan en vista para hacer énfasis.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/IMAGENES TECNICAS.../[_2_]ae3a6-conocimientoylaverdad.jpg" alto_px="346" ancho_px="347" alto="69.95" ancho="68.88" rotation="0" posy="249" posx="509" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="3b"/>
+  <pagina locked="0" id="4">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="44.7" ancho="774" rotation="0" posy="-1" posx="-1" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="97.01" ancho_px="250" alto="100" ancho="100" rotation="0.33" posy="11" posx="39" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>INICIO</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="207" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>CONCEPTOS</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="10" posx="419" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>EXPLICACIÓN</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="110" ancho_px="103" alto="100" ancho="100" rotation="0" posy="10" posx="632" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="1" alto_px="62" ancho_px="67" alto="50" ancho="117.92" rotation="0" posy="4" posx="24" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="2" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="6" posx="199" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="3" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="4" posx="409" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="3" posx="622" tipo="hipervinculo" src="5"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="74.05" ancho="443" rotation="0" posy="91" posx="1" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="61" ancho_px="473" alto="100" ancho="100" rotation="0" posy="96" posx="12" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Impact" SIZE="22" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">¿CUALES SON LAS TÉCNICAS DE DESARROLLO DEL PENSAMIENTO?</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="Arial" SIZE="10" COLOR="#0B333C" LETTERSPACING="0" KERNING="0"></FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="Arial" SIZE="10" COLOR="#0B333C" LETTERSPACING="0" KERNING="0"></FONT></LI></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/IMAGENES TECNICAS.../[_2_]PENSA_1.png" alto_px="281" ancho_px="378" alto="83.99" ancho="83.6" rotation="0" posy="312" posx="2" tipo="imagen" src="1"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="114" ancho_px="709" alto="100" ancho="100" rotation="0" posy="182" posx="34" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">LECTURA COMPRENSIVA: La lectura comprensiva, tiene como objeto la interpretación y comprensión crítica del texto y desarrolla la capacidad creativa y analítica.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">EXPOSICIÓN DIDÁCTICA: Es la herramiento por medio de la cual, con los recursos del lenguaje didáctico adecuado, se efectua la presentación de un tema nuevo que se define, explica, argumenta y analiza.<FONT SIZE="16"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="237.01" ancho_px="388" alto="100" ancho="100" rotation="0" posy="304" posx="333" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">PREGUNTA: Es la parte del aprendizaje que se basa en la formulación de preguntas y cuestionamientos para afianzar, y precisar saberes como para la solución y aclaración de dudas.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">ENSAYO: El ensayo es una herramienta de desarrollo del pensamiento que desarrolla un pensamiento creativo, complejo, crítico y metacognitivo.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">PROTOCOLO: Permite el desarrollo de la capacidad de sintetizar la información como también registra la dinámica de distintos procesos y promueve la generación de críticas constructivas.</FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="4b"/>
+  <pagina locked="0" id="5">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="44.7" ancho="774" rotation="0" posy="-1" posx="-1" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="97" ancho_px="250" alto="100" ancho="100" rotation="0.33" posy="11" posx="39" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>INICIO</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="1" alto_px="62" ancho_px="67" alto="50" ancho="117.92" rotation="0" posy="4" posx="24" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="207" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>CONCEPTOS</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="2" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="6" posx="199" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="419" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>EXPLICACIÓN</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="3" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="4" posx="409" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="110" ancho_px="103" alto="100" ancho="100" rotation="0" posy="10" posx="632" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="3" posx="622" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="172" ancho_px="684" alto="100" ancho="100" rotation="0" posy="353" posx="38" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">ANÁLISIS DE CASO: Busca extraer soluciones a través del estudio exhaustivo de un problema llevado al contexto académico en un ambiente y momento específico como también aplicación de teorías de aprendizaje al mismo.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">INVESTIGACIÓN: La investigación es la herramienta conceptual y experimental que permite profundizar en un tema, obtener nuevos coocimientos y aplicarlos para solucionar problemas e interrogantes gracias a su variedad de métodos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">SEMINARIO: Es una herramienta que ayuda al desarrollo de la habilidad argumentativa, de autoevaluación, comparación y fundamentación.</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="10040217" alto_px="99" ancho_px="100" alto="262.63" ancho="429" rotation="0" posy="63" posx="165" tipo="forma" src="4"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="16777215" alto_px="99" ancho_px="100" alto="260.36" ancho="425" rotation="0" posy="65" posx="167" tipo="forma" src="4"/>
+    <elemento imagen="galeria/imagenes/IMAGENES TECNICAS.../[_2_]DESA2.png" alto_px="225" ancho_px="400" alto="115.12" ancho="106.5" rotation="0" posy="66" posx="166" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="5b"/>
+  <pagina locked="0" id="6">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="44.7" ancho="774" rotation="0" posy="-1" posx="-1" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="97.01" ancho_px="250" alto="100" ancho="100" rotation="0.33" posy="11" posx="39" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>INICIO</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="207" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>CONCEPTOS</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="419" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>EXPLICACIÓN</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="110" ancho_px="103" alto="100" ancho="100" rotation="0" posy="10" posx="632" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="1" alto_px="62" ancho_px="67" alto="50" ancho="117.92" rotation="0" posy="4" posx="24" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="2" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="6" posx="199" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="3" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="4" posx="409" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="3" posx="622" tipo="hipervinculo" src="5"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="73.3" ancho="475" rotation="0" posy="91" posx="-2" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="124" ancho_px="473" alto="100" ancho="100" rotation="0" posy="98" posx="11" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Impact" SIZE="22" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">¿QUÉ HERRAMIENTAS WEB MULTIMEDIALES AYUDAN A DESARROLLAR EL PENSAMIENTO?</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="Arial" SIZE="10" COLOR="#0B333C" LETTERSPACING="0" KERNING="0"></FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="Arial" SIZE="10" COLOR="#0B333C" LETTERSPACING="0" KERNING="0"></FONT></LI></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/IMAGENES TECNICAS.../[_2_]WEB.jpg" alto_px="285" ancho_px="512" alto="114.04" ancho="104.5" rotation="0" posy="193" posx="121" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="6b"/>
+  <pagina locked="0" id="7">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="44.7" ancho="774" rotation="0" posy="-1" posx="-1" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="97.01" ancho_px="250" alto="100" ancho="100" rotation="0.33" posy="11" posx="39" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>INICIO</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="207" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>CONCEPTOS</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="419" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>EXPLICACIÓN</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="110" ancho_px="103" alto="100" ancho="100" rotation="0" posy="10" posx="632" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="1" alto_px="62" ancho_px="67" alto="50" ancho="117.92" rotation="0" posy="4" posx="24" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="2" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="6" posx="199" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="3" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="4" posx="409" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="3" posx="622" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="428" ancho_px="668" alto="100" ancho="100" rotation="0" posy="80" posx="43" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Gran variedad de las herramientas multimediales que hoy conocemos nos benefician para el desarrollo de nuestro pensamiento ya que son recursos que nos permiten por ejemplo crear, editar, guardar imágenes, audio y video, hacer presentaciones, actividades, etc... de manera en que se produce un estímulo de motivación en el individuo, un incentivo, al estar empleando una forma de aprendizaje y formación mas dinámica y fácil de llevar a cabo. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Estas herramientas permiten fomentar y posteriorrmente evolucionar en las habilidades para el desarrollo del pensamiento, que se ven reflejadas por ejemplo al leer textos, interpetar situaciones, resolver problemas, argumentar, solucionar puzzles, cuestionarios, indagar para dominar el manejo de una plataforma desconocida, descubrir nuevas fuentes de aprendizaje, etc... Algunas de estas herramientas son por ejemplo:</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>- EDpuzzle:</B> Con esta herramienta es posible personalizar videos creados por nosotros o ya existentes, además también nos permite tener un espacio de contenido interactivo entre usuarios como por ejemplo zona de comentarios y preguntas. Esta disponible en línea y se convirtió en una extensión de Chrome.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>- Genial.ly:</B> Es un software gratiuto en línea con el que podemos crear diapositivas con texto, imágenes, interactividad, animaciones y cualquier tipo de recursos de su biblioteca. Es adecuado para crear contenido de presentación de cualquier temática.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>- Prezi:</B> Sin duda, es una de las herramientas web multimediales mas conocidas y populares, con ella tenemos la posibilidad de crear presentaciones muy dinámicas de forma muy intuitiva, con la incorporación de elementos multimedia.. </FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="7b"/>
+  <pagina locked="0" id="8">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="44.7" ancho="774" rotation="0" posy="-1" posx="-1" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="97.01" ancho_px="250" alto="100" ancho="100" rotation="0.33" posy="11" posx="39" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>INICIO</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="207" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>CONCEPTOS</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="419" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>EXPLICACIÓN</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="110" ancho_px="103" alto="100" ancho="100" rotation="0" posy="10" posx="632" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="1" alto_px="62" ancho_px="67" alto="50" ancho="117.92" rotation="0" posy="4" posx="24" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="2" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="6" posx="199" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="3" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="4" posx="409" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="3" posx="622" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="252" ancho_px="664" alto="100" ancho="100" rotation="0" posy="80" posx="47" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>- Twist:</B> Es una herramienta multimedial principalmente para la comunicación e incluso debates, las conversaciones están agrupadas por temas o también es posible crear grupos personalizados y compartir archivos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>- HipChat: </B>Es otra de las herramientas para la comunicación que permite al igual que Twist, crear grupos y enviar archivos. Podremos hacer llamadas de audio y visuales, a su vez compartir contenido multimedia por medio de la opción compartir pantalla. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>- Educaplay:</B> Permite crear diversas actividades como por ejemplo: test, adivinanzas, aplicaciones de dictado, crucigramas, sopas de letras, etc... utilizando contenido multimedia.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>- Quizziz:</B> Es una herramienta web para crear preguntas personalizadas de manera lúdica y divertida, similar al Kahoot que cumple la misma función, en estas es posible compartir contenido multimedia y evaluar de manera competitiva.</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/IMAGENES TECNICAS.../[_2_]DESA.jpg" alto_px="330" ancho_px="700" alto="61.31" ancho="-44.86" rotation="0" posy="345" posx="762" tipo="imagen" src="1"/>
+    <elemento forma="galeria/formas/f20.swf" rellenar="false" colorear="13158" alto_px="70" ancho_px="100" alto="273.36" ancho="303" rotation="0" posy="335" posx="85" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="144" ancho_px="220" alto="100" ancho="100" rotation="0" posy="381" posx="130" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Éstas solo son algunas de las diversas herramientas web multimediales que existen, cada una tiene un enfoque el cuál desarrolla ciertas capacidades y asi un beneficio de progreso para cada tipo de pensamiento.<FONT SIZE="15"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="8b"/>
+  <pagina locked="0" id="9">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="44.7" ancho="774" rotation="0" posy="-1" posx="-1" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="97.01" ancho_px="250" alto="100" ancho="100" rotation="0.33" posy="11" posx="39" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>INICIO</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="207" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>CONCEPTOS</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="10" posx="419" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>EXPLICACIÓN</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="110" ancho_px="103" alto="100" ancho="100" rotation="0" posy="10" posx="632" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="1" alto_px="62" ancho_px="67" alto="50" ancho="117.92" rotation="0" posy="4" posx="24" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="2" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="6" posx="199" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="3" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="4" posx="409" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="3" posx="622" tipo="hipervinculo" src="5"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="75.31" ancho="473" rotation="0" posy="89" posx="-2" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="124" ancho_px="473" alto="100" ancho="100" rotation="0" posy="96" posx="12" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Impact" SIZE="22" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">¿CÓMO SE VINCULAN LAS HERRAMIENTAS WEB MULTIMEDIALES A UN PROYECTO DE INVESTIGACIÓN?</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="Arial" SIZE="10" COLOR="#0B333C" LETTERSPACING="0" KERNING="0"></FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="Arial" SIZE="10" COLOR="#0B333C" LETTERSPACING="0" KERNING="0"></FONT></LI></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="346" ancho_px="249" alto="100" ancho="100" rotation="0" posy="179" posx="482" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Un proyecto de investigación es un procedimiento metodológico que reune información para la formulación de hipótesis sobre un fenómeno social o científico en concreto. La recolección de información, análisis, experiemntación, argumentación y presentación de esta tiene una muy estrecha relación con las herramientas web multimediales ya que permiten un óptimo y dinámico desarrollo del proyecto de investigación independientemente de la temática a tratar. Se encuentran apliamente distribuidas por la variabilidad de sus funciones, en la investogación es importante llevar a cabo un proceso estratégico con este tipo de recursos.</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/IMAGENES TECNICAS.../[_2_]pro.jpg" alto_px="526" ancho_px="816" alto="67.31" ancho="54.54" rotation="0" posy="178" posx="10" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="9b"/>
+  <pagina locked="0" id="10">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="44.7" ancho="774" rotation="0" posy="-1" posx="-1" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="97.01" ancho_px="250" alto="100" ancho="100" rotation="0.33" posy="11" posx="39" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>INICIO</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="11" posx="207" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>CONCEPTOS</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="10" posx="419" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>EXPLICACIÓN</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="110" ancho_px="103" alto="100" ancho="100" rotation="0" posy="10" posx="632" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B><FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="1" alto_px="62" ancho_px="67" alto="50" ancho="117.92" rotation="0" posy="4" posx="24" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="2" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="6" posx="199" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="3" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="4" posx="409" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="51.63" ancho="179.11" rotation="0" posy="3" posx="622" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="119.01" ancho_px="450" alto="100" ancho="100" rotation="0" posy="79" posx="155" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="48" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">ACTIVIDADES</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="734012" alto_px="99" ancho_px="100" alto="2.03" ancho="222" rotation="0" posy="105" posx="24" tipo="forma" src="4"/>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="734012" alto_px="99" ancho_px="100" alto="2.03" ancho="222" rotation="0" posy="103" posx="528" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="246" ancho_px="148" alto="100" ancho="100" rotation="0" posy="265" posx="401" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Actividad 1: </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>RELACIONA</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Actividad 2:</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>PREGUNTA</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Actividad 3:</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>AHORCADO</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="217.01" ancho_px="144" alto="100" ancho="100" rotation="0" posy="265" posx="573" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Actividad 4:</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>COMPLETA</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Actividad 5:</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>ROMPECABEZAS</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Actividad 6:</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>RELACIONA 2</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="55" ancho_px="535" alto="100" ancho="100" rotation="0" posy="172" posx="38" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">A continuación encontrarás las actividades disponibles con relación a la información vista en este recurso. Haz click sobre el nombre de la actividad que quieras desarrollar:</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Helvetica" SIZE="15" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/IMAGENES TECNICAS.../[_2_]ACT_1.png" alto_px="347" ancho_px="381" alto="76.95" ancho="87.67" rotation="0" posy="237" posx="32" tipo="imagen" src="1"/>
+    <elemento imagen="vacio" salto="11" alto_px="62" ancho_px="67" alto="43.55" ancho="167.17" rotation="0" posy="289" posx="393" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="12" alto_px="62" ancho_px="67" alto="43.55" ancho="161.2" rotation="0" posy="367" posx="391" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="13" alto_px="62" ancho_px="67" alto="45.17" ancho="167.17" rotation="0" posy="445" posx="394" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="14" alto_px="62" ancho_px="67" alto="45.17" ancho="144.78" rotation="0" posy="288" posx="572" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="15" alto_px="62" ancho_px="67" alto="43.55" ancho="217.92" rotation="0" posy="368" posx="569" tipo="hipervinculo" src="5"/>
+    <elemento imagen="vacio" salto="16" alto_px="62" ancho_px="67" alto="40.33" ancho="189.56" rotation="0" posy="446" posx="564" tipo="hipervinculo" src="5"/>
+  </pagina>
+  <pagina locked="0" id="10b"/>
+  <pagina locked="0" id="11">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/emparejar.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="9" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="RELACIONA"/>
+          <instrucciones name="instrucciones"><![CDATA[Debes relacionar los términos de la parte derecha manteniendolo presionado y arrastrando la flecha hacia las respectivas definiciones o características  que se encuentran en la parte izquierda. ]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="3"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" nParejas="4"/>
+          <pareja name="pareja" texto1="Pensamiento" texto2="Ideas traídas a la realidad con la act.intelectual"/>
+          <pareja name="pareja" texto1="Investigación" texto2="Obtención de nuevos conocimientos y su aplicación"/>
+          <pareja name="pareja" texto1="Ensayo" texto2="Desarrolla un pensamiento metacognitivo y crítico"/>
+          <pareja name="pareja" texto1="Herramientas web multimediales" texto2="Amplia distribución por la varidad de funciones"/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="¡CORRECTO! "/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]correcto01.mp3"/>
+          <msgFallo name="msgFallo" texto="INCORRECTO"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]incorrecto01.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="51.17" ancho="136" rotation="0" posy="484" posx="621" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="44" ancho_px="111" alto="100" ancho="100" rotation="0" posy="491" posx="634" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="15" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>VOLVER A LAS</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="15" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="82.26" ancho="202.99" rotation="0" posy="483" posx="621" tipo="hipervinculo" src="5"/>
+  </pagina>
+  <pagina locked="0" id="11b"/>
+  <pagina locked="0" id="12">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/preguntas.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="2" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="PREGUNTA"/>
+          <instrucciones name="instrucciones"><![CDATA[Habrá una pregunta y varias posibles respuestas. Debes seleccionar la respuesta que consideres sea la correcta y las mas acertiva.Buena suerte!]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="90" intentos="-1"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" respuestas="3" texto="¿Qué es el desarrollo del pensamiento?"/>
+          <respuesta name="respuesta" texto="Una cualidad que poseen las personas que les permite desarrollar su entendimiento en un tiempo determinado." correcta="false"/>
+          <respuesta name="respuesta" texto="La capacidad del ser humano de desarrollarse naturalmente y educativamente con el paso del tiempo." correcta="true"/>
+          <respuesta name="respuesta" texto="La capacidad del ser humano de maduración que se adquiere hasta el momento de la formación y el aprendizaje." correcta="false"/>
+          <respuesta name="respuesta" texto="" correcta=""/>
+          <respuesta name="respuesta" texto="" correcta=""/>
+          <respuesta name="respuesta" texto="" correcta=""/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="¡CORRECTO!"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]correcto01.mp3"/>
+          <msgFallo name="msgFallo" texto="INCORRECTO"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]incorrecto01.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="51.17" ancho="136" rotation="0" posy="484" posx="621" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="44" ancho_px="111" alto="100" ancho="100" rotation="0" posy="491" posx="634" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="15" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>VOLVER A LAS</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="15" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="82.26" ancho="202.99" rotation="0" posy="483" posx="621" tipo="hipervinculo" src="5"/>
+  </pagina>
+  <pagina locked="0" id="12b"/>
+  <pagina locked="0" id="13">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/ahorcado.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="26" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="AHORCADO"/>
+          <instrucciones name="instrucciones"><![CDATA[Debes intentar decifrar poco a poco una palabra escondida sobre la temática tratada en este recurso seleccionando las letras hasta que sean correctas, pero cuidado! Tienes un cierto número de intentos.]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="3"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf"><![CDATA[EXPOSICIÓN DIDÁCTICA]]></conf>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="CORRECTO"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]correcto01.mp3"/>
+          <msgFallo name="msgFallo" texto="INCORRECTO"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]incorrecto01.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="51.17" ancho="136" rotation="0" posy="484" posx="621" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="44" ancho_px="111" alto="100" ancho="100" rotation="0" posy="491" posx="634" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="15" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>VOLVER A LAS</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="15" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="82.26" ancho="202.99" rotation="0" posy="483" posx="621" tipo="hipervinculo" src="5"/>
+  </pagina>
+  <pagina locked="0" id="13b"/>
+  <pagina locked="0" id="14">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/completa.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="5" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="COMPLETA"/>
+          <instrucciones name="instrucciones"><![CDATA[Hay un texto con ciertas palabras faltantes. En la parte inferior hay una lista de palabras las cuales debes arrastrar al espacio que corresponda.]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="180" intentos="3"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" texto="Las herramientas web multimediales tienen una gran {variabilidad}, son recursos que nos permiten fomentar y desarrollar habilidades del pensamiento como lo son por ejemplo: la argumentación, fundamentación, {interpretación}, pensamiento crítico, {análisis}, explicación, redacción, entre otras.&#xD;Se vinculan con un proyecto de {investigación} ya que para el desarrollo de éste se requiere el uso de diferentes {recursos} para los procesos conceptuales, pruebas de campo o {presentación} del proyecto."/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="¡CORRECTO!"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]correcto01.mp3"/>
+          <msgFallo name="msgFallo" texto="INCORRECTO"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]incorrecto01.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="51.17" ancho="136" rotation="0" posy="484" posx="621" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="44" ancho_px="111" alto="100" ancho="100" rotation="0" posy="491" posx="634" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="15" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>VOLVER A LAS</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="15" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="82.26" ancho="202.99" rotation="0" posy="483" posx="621" tipo="hipervinculo" src="5"/>
+  </pagina>
+  <pagina locked="0" id="14b"/>
+  <pagina locked="0" id="15">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/rompecabezas.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="8" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="ROMPECABEZAS"/>
+          <instrucciones name="instrucciones"><![CDATA[Debes ir moviendo las fichas tan solo dando click con el objetivo de formar la imagen que se encuentra a la izquierda.]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="-1"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" nImagenes="1" imgFondo=""/>
+          <imagen name="imagen" img="galeria/imagenes/IMAGENES TECNICAS.../[_2_]PENS.jpg"/>
+          <imagen name="imagen" img=""/>
+          <imagen name="imagen" img=""/>
+          <imagen name="imagen" img=""/>
+          <imagen name="imagen" img=""/>
+          <imagen name="imagen" img=""/>
+          <dimensiones name="dimensiones" filas="4" columnas="4"/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="CORRECTO"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]correcto01.mp3"/>
+          <msgFallo name="msgFallo" texto="INCORRECTO"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]incorrecto01.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="51.17" ancho="136" rotation="0" posy="484" posx="621" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="44" ancho_px="111" alto="100" ancho="100" rotation="0" posy="491" posx="634" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="15" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>VOLVER A LAS</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="15" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="82.26" ancho="202.99" rotation="0" posy="483" posx="621" tipo="hipervinculo" src="5"/>
+  </pagina>
+  <pagina locked="0" id="15b"/>
+  <pagina locked="0" id="16">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/emparejar.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="9" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="RELACIONA 2"/>
+          <instrucciones name="instrucciones"><![CDATA[Debes relacionar los términos de la parte derecha manteniendolo presionado y arrastrando la flecha hacia las respectivas definiciones o características  que se encuentran en la parte izquierda. ]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="3"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" nParejas="4"/>
+          <pareja name="pareja" texto1="Pregunta" texto2="Formulación de cuestionamientos"/>
+          <pareja name="pareja" texto1="Twist" texto2="Crea grupos de conversación y debates"/>
+          <pareja name="pareja" texto1="Quizziz" texto2="Crea cuestionarios de forma lúdica y divertida"/>
+          <pareja name="pareja" texto1="Análisis de caso" texto2="Busca de soluciones para un determinado problema"/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="¡CORRECTO!"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]correcto01.mp3"/>
+          <msgFallo name="msgFallo" texto="INCORRECTO"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]incorrecto01.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+    <elemento forma="galeria/formas/f9.swf" rellenar="true" colorear="0" alto_px="99" ancho_px="100" alto="51.17" ancho="136" rotation="0" posy="484" posx="621" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="44" ancho_px="111" alto="100" ancho="100" rotation="0" posy="491" posx="634" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="15" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>VOLVER A LAS</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Helvetica" SIZE="15" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>ACTIVIDADES</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="vacio" salto="10" alto_px="62" ancho_px="67" alto="82.26" ancho="202.99" rotation="0" posy="483" posx="621" tipo="hipervinculo" src="5"/>
+  </pagina>
+</fundacion>
